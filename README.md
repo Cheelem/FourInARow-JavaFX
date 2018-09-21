@@ -50,7 +50,7 @@ Other maven stages setup in `pom.xml` include:
 You can always clean the existing build using the following command. 
 
 ```
-mvn test
+mvn clean
 ```
 This will delete the `target` directory and all of its contents. 
 
